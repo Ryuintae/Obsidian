@@ -6,8 +6,9 @@
 >-  **D**IP(Dependency Inversion Principle): 의존 역전 원칙
 
 ## S: Single responsibility principle(SRP)
-안녕하세요asdfasdfasdfasdfasdfdjdlrk\\어이가 없ㅓㅓ네
-하이용ㅎㅎ
+안녕하세요asdfasdfasdfasdfasdfdjdlrk\\어이가 없ㅓㅓ네ㅁㄴㅇㄻㄴㅇㄹ
+asdjlkasdfjlkafsdljk
+하이용ㅎ
 - 단일 책임 원칙은 **클래스(객체)는 단 하나의 책임만 가져야** 한다는 원칙
 - 여기서 **'책임'** 이라는 의미는 하나의 '**기능 담당'으로 보면 된다
 - 즉, **하나의 클래스는 하나의 기능 담당하여 하나의 책임을 수행**하는데 집중되도록 클래스를 따로따로 여러개 설계하라는 원칙이다.
