@@ -1,3 +1,4 @@
+
 >[!info] Solid
 >- **S**RP(Single Responsibility Principle): 단일 책임 원칙
 >-  **O**CP(Open Closed Priciple): 개방 폐쇄 원칙
