@@ -6,9 +6,9 @@
 >-  **D**IP(Dependency Inversion Principle): 의존 역전 원칙
 
 ## S: Single responsibility principle(SRP)
-안녕하세요asdfasdfasdfasdfasdf
+안녕하세요asdfasdfasdfasdfasdfdjdlrk\\어이가 없ㅓㅓ네
 하하하하하asdfasdfsdfasdfas
-olasdfsdfsdfasdkflajsdlkflsdkfjlk
+olasdfsdfsdfasdkflajsdlkflsdkfjlksdfasdfasdfasdfasdfkjlasfdlkjkl
 oasdfasjdlkfjsdfasdfkksdflkajsdflkasdjflklj
 커asdflkasdflkasdflkjsdf밋완료
 
