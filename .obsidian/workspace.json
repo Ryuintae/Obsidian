@@ -8,43 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad3e66765e19d93f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "환경설정/Vim 설정 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16852ff01602c48b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "cc7d48c24b1f4c8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "환경설정/Vim 설정 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0687e77171bbd5b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "디자인패턴/생성 패턴/팩토리패턴/팩토리 메서드 패턴.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -63,8 +35,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "디자인패턴/생성 패턴/팩토리패턴/팩토리 메서드 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "디자인패턴/생성 패턴/팩토리패턴/팩토리 메서드 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "디자인패턴/생성 패턴/팩토리패턴/팩토리 메서드 패턴.md"
+              }
             }
           }
         ]
@@ -188,17 +163,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "16852ff01602c48b",
+  "active": "0687e77171bbd5b6",
   "lastOpenFiles": [
-    "환경설정/옵시디언VIM.md",
-    "환경설정/Vim 설정 파일.md",
-    "Pasted image 20230919101442.png.md",
-    "무제 파일.md",
-    "SOLID/객체지향 설계의 5가지 원칙.md",
-    "디자인패턴/생성 패턴/팩토리패턴/팩토리 메서드 패턴.md",
-    "새 텍스트 문서.txt",
-    "Pasted image 20230919101651.png.md",
     "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
+    "하이하이.md",
+    "SOLID/객체지향 설계의 5가지 원칙.md",
+    "SOLID/Pasted image 20230921154905.png",
+    "SOLID/Pasted image 20230921154852.png",
+    "Pasted image 20230919145051.png.md",
+    "SOLID/Pasted image 20230921154709.png",
+    "Pasted image 20230919150704.png.md",
+    "SOLID/Pasted image 20230921153931.png",
+    "환경설정/Vim 설정 파일.md",
+    "디자인패턴/생성 패턴/팩토리패턴/팩토리 메서드 패턴.md",
+    "Pasted image 20230919101651.png.md",
+    "Pasted image 20230919101442.png.md",
+    "환경설정/옵시디언VIM.md",
+    "새 텍스트 문서.txt",
     "SOLID",
     "객체지향 설계의 5가지 원칙.md",
     "%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-27_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.38.40.png",
@@ -216,10 +197,6 @@
     "디자인패턴/생성 패턴/팩토리패턴",
     "Pasted image 20230919101651.png",
     "Pasted image 20230919101442.png",
-    "Pasted image 20230919100836.png",
-    "Pasted image 20230919100646.png",
-    "Untitled 13 3.png",
-    "Untitled 12 48.png",
     "Notion/C/C.md",
     "무제 파일.canvas",
     "디자인패턴/행동 패턴",
@@ -234,9 +211,6 @@
     "Notion/잡다한 팁/좋은 템플릿 모음/여행 플래너/바르셀로나 일정/비올레타 부티크 호텔.md",
     "Notion/잡다한 팁/좋은 템플릿 모음/여행 플래너/바르셀로나 일정/귀국 항공편.md",
     "Notion/잡다한 팁/좋은 템플릿 모음/여행 플래너/바르셀로나 일정/케이블카 탑승.md",
-    "Notion/잡다한 팁/좋은 템플릿 모음/여행 플래너/바르셀로나 일정/사그라다 파밀리아 성당 투어.md",
-    "Notion/잡다한 팁/좋은 템플릿 모음/여행 플래너/바르셀로나 일정/달리(Dali) 미술관.md",
-    "Notion/잡다한 팁/좋은 템플릿 모음/여행 플래너/바르셀로나 일정/출발 항공편.md",
-    "Notion/잡다한 팁/좋은 템플릿 모음/여행 플래너/바르셀로나 일정/점심 식사.md"
+    "Notion/잡다한 팁/좋은 템플릿 모음/여행 플래너/바르셀로나 일정/사그라다 파밀리아 성당 투어.md"
   ]
 }
