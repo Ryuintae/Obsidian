@@ -49,7 +49,7 @@ public void modify(Collection data){
 
 
 
-## 인터페이스 분리 원ㅊ - ISP (Interface Segregation Principle)
+## 인터페이스 분리 원칙 - ISP (Interface Segregation Principle)
 ![[Pasted image 20230921154852.png]]
 - ISP 원칙은 **인터페이스를 각각 사용에 맞게 끔 잘게 분리**해야한다는 설계 원칙이다.
 - SRP 원칙이 **클래스의 단일 책임**을 강조한다면, ISP는 **인터페이스의 단일 책임**을 강조하는 것으로 보면 된다.  
