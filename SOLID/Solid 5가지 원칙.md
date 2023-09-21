@@ -46,13 +46,11 @@ public void modify(Collection data){
     // ...
 }
 ````
-<<<<<<< HEAD
 
 
 
 ## 인터페이스 분리 원치 - ISP (Interface Segregation Principle)
 ![[Pasted image 20230921154852.png]]
-=======
 칙 - ISP (Interface Segregation Principle)
 
 ![[Pasted image 20230919150704.png]]
