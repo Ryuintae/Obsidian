@@ -7,7 +7,9 @@
 
 ## S: Single responsibility principle(SRP)
 안녕하세요asdfasdfasdfasdfasdf
-하하하하하
+하하하하하asdfasdf
+olasdfsdf
+o
 커sdf밋완료
 
 - 단일 책임 원칙은 **클래스(객체)는 단 하나의 책임만 가져야** 한다는 원칙
