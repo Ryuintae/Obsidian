@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,11 +155,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7de267709b3ffe26",
+  "active": "63e0f6ca44148356",
   "lastOpenFiles": [
+    "Pasted image 20230922151546.png",
+    "디자인패턴/생성 패턴/팩토리패턴/AbstractStructure.png",
+    "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
     "디자인패턴/생성 패턴/팩토리패턴/팩토리 메서드 패턴.md",
     "디자인패턴/생성 패턴/팩토리패턴/AbstractDiagram.png",
-    "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
     "Pasted.md",
     "Pasted image 20230922145829.png",
     "Pasted image 20230922145743.png",
@@ -173,7 +174,6 @@
     "디자인패턴/생성 패턴/팩토리패턴/Pasted image 20230922101106.png",
     "디자인패턴/생성 패턴/팩토리패턴/structure2.png",
     "디자인패턴/생성 패턴/팩토리패턴/Pasted image 20230922095802.png",
-    "디자인패턴/생성 패턴/팩토리패턴/Pasted image 20230922101154.png",
     "SOLID/Solid 5가지 원칙.md",
     "환경설정/옵시디언VIM.md",
     "환경설정/Vim 설정 파일.md",
