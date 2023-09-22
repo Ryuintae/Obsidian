@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
+                "file": "디자인패턴/생성 패턴/빌더/빌더 패턴 (Builder).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
+                "file": "디자인패턴/생성 패턴/빌더/빌더 패턴 (Builder).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
+                "file": "디자인패턴/생성 패턴/빌더/빌더 패턴 (Builder).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md"
+                "file": "디자인패턴/생성 패턴/빌더/빌더 패턴 (Builder).md"
               }
             }
           },
@@ -158,25 +158,27 @@
   "active": "63e0f6ca44148356",
   "lastOpenFiles": [
     "디자인패턴/생성 패턴/팩토리패턴/팩토리 메서드 패턴.md",
+    "디자인패턴/생성 패턴/빌더/빌더 패턴 (Builder).md",
+    "디자인패턴/생성 패턴/빌더",
+    "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
+    "디자인패턴/생성 패턴/팩토리패턴/AbstractFactory_diagram.png",
     "디자인패턴/생성 패턴/팩토리패턴/AbstractDiagram.png",
+    "SOLID/Solid 5가지 원칙.md",
+    "환경설정/Vim 설정 파일.md",
+    "SOLID/Pasted image 20230921153931.png",
+    "SOLID/Pasted image 20230921154709.png",
+    "SOLID/Pasted image 20230921154852.png",
+    "디자인패턴/생성 패턴/팩토리패턴/diffrent.png",
     "디자인패턴/생성 패턴/팩토리패턴/AbstractStructure.png",
     "하이하이.md",
     "Pasted image 20230922151546.png",
-    "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
     "Pasted.md",
     "Pasted image 20230922145829.png",
     "Pasted image 20230922145743.png",
-    "Pasted image 20230922145711.png",
     "Pasted image 20230922101106.png.md",
     "Pasted image 20230922095802.png.md",
-    "디자인패턴/생성 패턴/팩토리패턴/diagram3.png",
-    "디자인패턴/생성 패턴/팩토리패턴/structure.png",
     "README.md",
-    "디자인패턴/생성 패턴/팩토리패턴/Pasted image 20230922101106.png",
-    "디자인패턴/생성 패턴/팩토리패턴/structure2.png",
-    "SOLID/Solid 5가지 원칙.md",
     "환경설정/옵시디언VIM.md",
-    "환경설정/Vim 설정 파일.md",
     "conflict-files-obsidian-git.md",
     "SOLID/객체지향 설계의 5가지 원칙.md",
     "Pasted image 20230919145051.png.md",
@@ -201,7 +203,6 @@
     "디자인패턴/구조 패턴",
     "디자인패턴/생성 패턴",
     "디자인패턴/팩토리메서드패턴",
-    "디자인패턴",
     "Notion/잡다한 팁/좋은 템플릿 모음/여행 플래너/바르셀로나 일정/아침 식사.md",
     "Notion/잡다한 팁/좋은 템플릿 모음/여행 플래너/바르셀로나 일정/호안 미로 미술관.md"
   ]
