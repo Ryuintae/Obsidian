@@ -25,7 +25,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/Pastedimage20230921155208.png"
+                "file": "디자인패턴/생성 패턴/팩토리패턴/diagram2.png"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/Pastedimage20230921155208.png",
+                "file": "디자인패턴/생성 패턴/팩토리패턴/diagram2.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/Pastedimage20230921155208.png",
+                "file": "디자인패턴/생성 패턴/팩토리패턴/diagram2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/Pastedimage20230921155208.png"
+                "file": "디자인패턴/생성 패턴/팩토리패턴/diagram2.png"
               }
             }
           }
@@ -160,7 +160,8 @@
   },
   "active": "5d6c4320d8256d6e",
   "lastOpenFiles": [
-    "디자인패턴/생성 패턴/팩토리패턴/Pastedimage20230921155137.png",
+    "디자인패턴/생성 패턴/팩토리패턴/diagram1.png",
+    "디자인패턴/생성 패턴/팩토리패턴/diagram2.png",
     "SOLID/Solid 5가지 원칙.md",
     "SOLID/Pasted image 20230921154905.png",
     "SOLID/Pasted image 20230921154852.png",
@@ -177,7 +178,6 @@
     "README.md",
     "SOLID/객체지향 설계의 5가지 원칙.md",
     "하이하이.md",
-    "디자인패턴/생성 패턴/팩토리패턴/Pastedimage20230921155208.png",
     "Pasted image 20230919145051.png.md",
     "SOLID/Pasted image 20230921154709.png",
     "Pasted image 20230919150704.png.md",
