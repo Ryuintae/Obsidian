@@ -141,9 +141,17 @@
                 "file": "디자인패턴/생성 패턴/팩토리패턴/팩토리 메서드 패턴.md"
               }
             }
+          },
+          {
+            "id": "a029ae82f91252f9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
