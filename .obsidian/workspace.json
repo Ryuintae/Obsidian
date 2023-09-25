@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
+                "file": "SOLID/Solid 5가지 원칙.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
+                "file": "SOLID/Solid 5가지 원칙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
+                "file": "SOLID/Solid 5가지 원칙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDD_(Domain Driven Design)/바운디드 컨텍스트.md"
+                "file": "SOLID/Solid 5가지 원칙.md"
               }
             }
           },
@@ -171,10 +170,11 @@
   },
   "active": "d72d7afa5ff020b6",
   "lastOpenFiles": [
-    "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
+    "SOLID/Pasted image 20230921153931.png",
+    "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md",
     "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
     "DDD_(Domain Driven Design)/도메인 이란.md",
-    "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md",
+    "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
     "하이하이.md",
     "DDD_(Domain Driven Design)",
     "무제 파일.md",
@@ -185,7 +185,6 @@
     "디자인패턴/생성 패턴/팩토리패턴/AbstractDiagram.png",
     "SOLID/Solid 5가지 원칙.md",
     "환경설정/Vim 설정 파일.md",
-    "SOLID/Pasted image 20230921153931.png",
     "SOLID/Pasted image 20230921154709.png",
     "SOLID/Pasted image 20230921154852.png",
     "디자인패턴/생성 패턴/팩토리패턴/diffrent.png",
@@ -213,7 +212,6 @@
     "무제 ㅇㅇ파일.md",
     "환경설정",
     "Notion/(IO)입출력 스트림 과 버퍼/(IO)입출력 스트림 과 버퍼.md",
-    "실제.md",
     "디자인패턴/생성 패턴/팩토리패턴",
     "무제 파일.canvas",
     "디자인패턴/행동 패턴",
