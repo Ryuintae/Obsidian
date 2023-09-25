@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD/도메인 이란.md",
+                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDD/도메인 이란.md",
+                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDD/도메인 이란.md",
+                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDD/도메인 이란.md"
+                "file": "DDD_(Domain Driven Design)/도메인 이란.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   "active": "d72d7afa5ff020b6",
   "lastOpenFiles": [
     "하이하이.md",
-    "DDD/도메인 이란.md",
-    "DDD",
+    "DDD_(Domain Driven Design)/도메인 이란.md",
+    "DDD_(Domain Driven Design)",
     "무제 파일.md",
     "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
     "디자인패턴/생성 패턴/빌더/빌더 패턴 (Builder).md",
