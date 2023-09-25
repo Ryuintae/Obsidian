@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d72d7afa5ff020b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DDD/도메인 이란.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
+                "file": "DDD/도메인 이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
+                "file": "DDD/도메인 이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md"
+                "file": "DDD/도메인 이란.md"
               }
             }
           },
@@ -155,12 +168,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "63e0f6ca44148356",
+  "active": "d72d7afa5ff020b6",
   "lastOpenFiles": [
+    "하이하이.md",
+    "DDD/도메인 이란.md",
+    "DDD",
+    "무제 파일.md",
+    "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
     "디자인패턴/생성 패턴/빌더/빌더 패턴 (Builder).md",
     "디자인패턴/생성 패턴/팩토리패턴/팩토리 메서드 패턴.md",
     "디자인패턴/생성 패턴/빌더",
-    "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
     "디자인패턴/생성 패턴/팩토리패턴/AbstractFactory_diagram.png",
     "디자인패턴/생성 패턴/팩토리패턴/AbstractDiagram.png",
     "SOLID/Solid 5가지 원칙.md",
@@ -170,7 +187,6 @@
     "SOLID/Pasted image 20230921154852.png",
     "디자인패턴/생성 패턴/팩토리패턴/diffrent.png",
     "디자인패턴/생성 패턴/팩토리패턴/AbstractStructure.png",
-    "하이하이.md",
     "Pasted image 20230922151546.png",
     "Pasted.md",
     "Pasted image 20230922145829.png",
@@ -201,9 +217,6 @@
     "무제 파일.canvas",
     "디자인패턴/행동 패턴",
     "디자인패턴/구조 패턴",
-    "디자인패턴/생성 패턴",
-    "디자인패턴/팩토리메서드패턴",
-    "Notion/잡다한 팁/좋은 템플릿 모음/여행 플래너/바르셀로나 일정/아침 식사.md",
-    "Notion/잡다한 팁/좋은 템플릿 모음/여행 플래너/바르셀로나 일정/호안 미로 미술관.md"
+    "디자인패턴/생성 패턴"
   ]
 }
