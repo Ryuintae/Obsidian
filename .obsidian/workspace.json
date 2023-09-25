@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,13 +171,13 @@
   },
   "active": "d72d7afa5ff020b6",
   "lastOpenFiles": [
-    "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md",
-    "DDD_(Domain Driven Design)/도메인 이란.md",
+    "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
     "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
+    "DDD_(Domain Driven Design)/도메인 이란.md",
+    "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md",
     "하이하이.md",
     "DDD_(Domain Driven Design)",
     "무제 파일.md",
-    "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
     "디자인패턴/생성 패턴/빌더/빌더 패턴 (Builder).md",
     "디자인패턴/생성 패턴/팩토리패턴/팩토리 메서드 패턴.md",
     "디자인패턴/생성 패턴/빌더",
