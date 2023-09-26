@@ -65,3 +65,4 @@
 
 [참고 사이트](https://pearlluck.tistory.com/649)
 [참고 사이트](https://www.incodom.kr/%EC%95%A0%EC%9E%90%EC%9D%BC_%EB%B0%A9%EB%B2%95%EB%A1%A0)
+[스크럼 참고 사이트](https://brunch.co.kr/@jhw28/34)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
+                "file": "소프트웨어_개발_방법론/애자일(Agile).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
+                "file": "소프트웨어_개발_방법론/애자일(Agile).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
+                "file": "소프트웨어_개발_방법론/애자일(Agile).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDD_(Domain Driven Design)/바운디드 컨텍스트.md"
+                "file": "소프트웨어_개발_방법론/애자일(Agile).md"
               }
             }
           },
@@ -192,10 +192,10 @@
       }
     ]
   },
-  "active": "63e0f6ca44148356",
+  "active": "51fd771cb0591a9a",
   "lastOpenFiles": [
-    "DDD_(Domain Driven Design)/방법6.png",
     "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
+    "DDD_(Domain Driven Design)/방법6.png",
     "DDD_(Domain Driven Design)/방법5.png",
     "DDD_(Domain Driven Design)/방법4.png",
     "하이하이.md",
