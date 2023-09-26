@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소프트웨어_개발_방법론/애자일(Agile).md",
+                "file": "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
       }
     ]
   },
-  "active": "d72d7afa5ff020b6",
+  "active": "51fd771cb0591a9a",
   "lastOpenFiles": [
     "소프트웨어_개발_방법론/애자일(Agile).md",
     "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
