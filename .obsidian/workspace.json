@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "소프트웨어_개발_방법론/애자일(Agile).md",
+                "file": "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "소프트웨어_개발_방법론/애자일(Agile).md",
+                "file": "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "소프트웨어_개발_방법론/애자일(Agile).md"
+                "file": "DDD_(Domain Driven Design)/바운디드 컨텍스트.md"
               }
             }
           },
@@ -192,8 +192,9 @@
       }
     ]
   },
-  "active": "51fd771cb0591a9a",
+  "active": "d72d7afa5ff020b6",
   "lastOpenFiles": [
+    "소프트웨어_개발_방법론/애자일(Agile).md",
     "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
     "DDD_(Domain Driven Design)/방법6.png",
     "DDD_(Domain Driven Design)/방법5.png",
@@ -209,7 +210,6 @@
     "SOLID/Pasted image 20230921153931.png",
     "SOLID/Pasted image 20230921154709.png",
     "SOLID/Pasted image 20230921154852.png",
-    "소프트웨어_개발_방법론/애자일(Agile).md",
     "DDD_(Domain Driven Design)/도메인 이란.md",
     "소프트웨어_개발_방법론",
     "DDD_(Domain Driven Design)/무제 파일.md",
