@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea5736f0f036da57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +166,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "63e0f6ca44148356",
+  "active": "ea5736f0f036da57",
   "lastOpenFiles": [
     "DDD_(Domain Driven Design)/pdf모음/서브도메인2.png",
     "DDD_(Domain Driven Design)/서브도메인.md",
