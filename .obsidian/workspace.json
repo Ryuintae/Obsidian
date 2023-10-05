@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD_(Domain Driven Design)/서브도메인.md",
+                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
+                "file": "DDD_(Domain Driven Design)/서브도메인.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,12 +168,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "63e0f6ca44148356",
+  "active": "51fd771cb0591a9a",
   "lastOpenFiles": [
-    "Pasted image 20231005110934.png",
     "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
-    "DDD_(Domain Driven Design)/서브도메인.md",
     "DDD_(Domain Driven Design)/도메인 이란.md",
+    "DDD_(Domain Driven Design)/서브도메인.md",
+    "Pasted image 20231005110934.png",
     "환경설정/Vim 설정 파일.md",
     "환경설정/옵시디언VIM.md",
     "소프트웨어_개발_방법론/애자일(Agile).md",
@@ -191,7 +191,6 @@
     "DDD_(Domain Driven Design)/pdf모음/방법1-2.png",
     "SOLID/Solid 5가지 원칙.md",
     "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
-    "SOLID/Pasted image 20230921153931.png",
     "소프트웨어_개발_방법론",
     "DDD_(Domain Driven Design)/정리가 필요한 정보.md",
     "DDD_(Domain Driven Design)",
