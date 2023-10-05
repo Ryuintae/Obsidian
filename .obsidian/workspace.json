@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD_(Domain Driven Design)/서브도메인.md",
+                "file": "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,8 +168,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ea5736f0f036da57",
+  "active": "63e0f6ca44148356",
   "lastOpenFiles": [
+    "Pasted image 20231005110934.png",
     "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
     "DDD_(Domain Driven Design)/서브도메인.md",
     "DDD_(Domain Driven Design)/도메인 이란.md",
