@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
+                "file": "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
+                "file": "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
+                "file": "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDD_(Domain Driven Design)/컨텍스트 매핑.md"
+                "file": "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "fddb6a666e1299f5",
   "lastOpenFiles": [
-    "Pasted image 20231006162034.png",
     "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
+    "Pasted image 20231006162034.png",
     "Pasted image 20231006161926.png",
     "DDD_(Domain Driven Design)/서브도메인.md",
     "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
@@ -214,7 +214,6 @@
     "DDD_(Domain Driven Design)/pdf모음/방법5.png",
     "DDD_(Domain Driven Design)/pdf모음/방법4.png",
     "하이하이.md",
-    "DDD_(Domain Driven Design)/pdf모음/방법3.png",
     "SOLID/Solid 5가지 원칙.md",
     "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
     "소프트웨어_개발_방법론",
