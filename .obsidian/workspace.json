@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
+                "file": "DDD_(Domain Driven Design)/서브도메인.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
+                "file": "DDD_(Domain Driven Design)/서브도메인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
+                "file": "DDD_(Domain Driven Design)/서브도메인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDD_(Domain Driven Design)/도메인 이란.md"
+                "file": "DDD_(Domain Driven Design)/서브도메인.md"
               }
             }
           },
@@ -194,12 +194,12 @@
   },
   "active": "fddb6a666e1299f5",
   "lastOpenFiles": [
+    "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
+    "DDD_(Domain Driven Design)/도메인 이란.md",
     "환경설정/키보드 설정.md",
     "DDD_(Domain Driven Design)/엔티티와 밸류.md",
-    "DDD_(Domain Driven Design)/도메인 이란.md",
     "DDD_(Domain Driven Design)/무제 폴더",
     "DDD_(Domain Driven Design)/서브도메인.md",
-    "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
     "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md",
     "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
     "Pasted image 20231006162034.png",
