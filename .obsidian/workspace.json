@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "환경설정/키보드 설정.md",
+                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "환경설정/키보드 설정.md",
+                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "환경설정/키보드 설정.md",
+                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "환경설정/키보드 설정.md"
+                "file": "DDD_(Domain Driven Design)/도메인 이란.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "fddb6a666e1299f5",
   "lastOpenFiles": [
-    "DDD_(Domain Driven Design)/엔티티와 밸류.md",
     "환경설정/키보드 설정.md",
+    "DDD_(Domain Driven Design)/엔티티와 밸류.md",
     "DDD_(Domain Driven Design)/도메인 이란.md",
     "DDD_(Domain Driven Design)/무제 폴더",
     "DDD_(Domain Driven Design)/서브도메인.md",
