@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
+                "file": "DDD_(Domain Driven Design)/엔티티와 밸류.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
+                "file": "DDD_(Domain Driven Design)/엔티티와 밸류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
+                "file": "DDD_(Domain Driven Design)/엔티티와 밸류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDD_(Domain Driven Design)/도메인 이란.md"
+                "file": "DDD_(Domain Driven Design)/엔티티와 밸류.md"
               }
             }
           },
@@ -192,8 +192,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "51fd771cb0591a9a",
+  "active": "fddb6a666e1299f5",
   "lastOpenFiles": [
+    "DDD_(Domain Driven Design)/도메인 이란.md",
+    "DDD_(Domain Driven Design)/엔티티와 밸류.md",
+    "DDD_(Domain Driven Design)/무제 폴더",
     "DDD_(Domain Driven Design)/서브도메인.md",
     "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
     "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md",
@@ -201,7 +204,6 @@
     "Pasted image 20231006162034.png",
     "Pasted image 20231006161926.png",
     "Pasted image 20231005135727.png",
-    "DDD_(Domain Driven Design)/도메인 이란.md",
     "Pasted image 20231005110934.png",
     "환경설정/Vim 설정 파일.md",
     "환경설정/옵시디언VIM.md",
@@ -239,7 +241,6 @@
     "무제 파일 1.canvas",
     "환경설정",
     "디자인패턴/생성 패턴/팩토리패턴",
-    "무제 파일.canvas",
-    "디자인패턴/행동 패턴"
+    "무제 파일.canvas"
   ]
 }
