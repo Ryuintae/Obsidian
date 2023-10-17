@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
+                "file": "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
+                "file": "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
+                "file": "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDD_(Domain Driven Design)/컨텍스트 매핑.md"
+                "file": "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md"
               }
             }
           },
@@ -206,11 +206,11 @@
   },
   "active": "d896f91925b53e6d",
   "lastOpenFiles": [
-    "DDD_(Domain Driven Design)/애그리거트.md",
-    "DDD_(Domain Driven Design)/엔티티와 밸류.md",
-    "DDD_(Domain Driven Design)/서브도메인.md",
-    "DDD_(Domain Driven Design)/이벤트 스토밍.md",
     "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
+    "DDD_(Domain Driven Design)/서브도메인.md",
+    "DDD_(Domain Driven Design)/애그리거트.md",
+    "DDD_(Domain Driven Design)/이벤트 스토밍.md",
+    "DDD_(Domain Driven Design)/엔티티와 밸류.md",
     "환경설정/키보드 설정.md",
     "소프트웨어_개발_방법론/애자일(Agile).md",
     "환경설정/옵시디언VIM.md",
