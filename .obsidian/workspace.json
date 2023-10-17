@@ -51,9 +51,11 @@
             "id": "d896f91925b53e6d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "DDD_(Domain Driven Design)/이벤트 스토밍.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOLID/Solid 5가지 원칙.md",
+                "file": "DDD_(Domain Driven Design)/이벤트 스토밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOLID/Solid 5가지 원칙.md",
+                "file": "DDD_(Domain Driven Design)/이벤트 스토밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOLID/Solid 5가지 원칙.md"
+                "file": "DDD_(Domain Driven Design)/이벤트 스토밍.md"
               }
             }
           },
@@ -204,6 +206,11 @@
   },
   "active": "d896f91925b53e6d",
   "lastOpenFiles": [
+    "환경설정/키보드 설정.md",
+    "DDD_(Domain Driven Design)/이벤트 스토밍.md",
+    "소프트웨어_개발_방법론/애자일(Agile).md",
+    "환경설정/옵시디언VIM.md",
+    "환경설정/Vim 설정 파일.md",
     "SOLID/Solid 5가지 원칙.md",
     "하이하이.md",
     "SOLID/Pasted image 20230921154709.png",
@@ -214,15 +221,11 @@
     "DDD_(Domain Driven Design)/엔티티와 밸류.md",
     "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
     "DDD_(Domain Driven Design)/도메인 이란.md",
-    "환경설정/키보드 설정.md",
     "DDD_(Domain Driven Design)/무제 폴더",
     "Pasted image 20231006162034.png",
     "Pasted image 20231006161926.png",
     "Pasted image 20231005135727.png",
     "Pasted image 20231005110934.png",
-    "환경설정/Vim 설정 파일.md",
-    "환경설정/옵시디언VIM.md",
-    "소프트웨어_개발_방법론/애자일(Agile).md",
     "DDD_(Domain Driven Design)/pdf모음/서브도메인2.png",
     "DDD_(Domain Driven Design)/pdf모음/서브도메인예시.png",
     "DDD_(Domain Driven Design)/pdf모음/방법1.png",
