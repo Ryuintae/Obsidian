@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDD_(Domain Driven Design)/애그리거트.md",
+                "file": "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDD_(Domain Driven Design)/애그리거트.md",
+                "file": "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDD_(Domain Driven Design)/애그리거트.md",
+                "file": "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDD_(Domain Driven Design)/애그리거트.md"
+                "file": "DDD_(Domain Driven Design)/컨텍스트 매핑.md"
               }
             }
           },
@@ -206,8 +206,8 @@
   },
   "active": "d896f91925b53e6d",
   "lastOpenFiles": [
-    "DDD_(Domain Driven Design)/엔티티와 밸류.md",
     "DDD_(Domain Driven Design)/애그리거트.md",
+    "DDD_(Domain Driven Design)/엔티티와 밸류.md",
     "DDD_(Domain Driven Design)/서브도메인.md",
     "DDD_(Domain Driven Design)/이벤트 스토밍.md",
     "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
