@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
+                "file": "디자인패턴/디자인 패턴이란.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
+                "file": "디자인패턴/디자인 패턴이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
+                "file": "디자인패턴/디자인 패턴이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md"
+                "file": "디자인패턴/디자인 패턴이란.md"
               }
             }
           },
@@ -206,6 +206,10 @@
   },
   "active": "d896f91925b53e6d",
   "lastOpenFiles": [
+    "Pasted image 20231018100028.png",
+    "Pasted image 20231018094318.png",
+    "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
+    "디자인패턴/디자인 패턴이란.md",
     "디자인패턴/생성 패턴/빌더/빌더 패턴 (Builder).md",
     "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md",
     "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
@@ -232,8 +236,6 @@
     "DDD_(Domain Driven Design)/pdf모음/서브도메인예시.png",
     "DDD_(Domain Driven Design)/pdf모음/방법1.png",
     "DDD_(Domain Driven Design)/pdf모음",
-    "DDD_(Domain Driven Design)/pdf모음/방법6.png",
-    "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
     "소프트웨어_개발_방법론",
     "DDD_(Domain Driven Design)/정리가 필요한 정보.md",
     "DDD_(Domain Driven Design)",
@@ -245,8 +247,6 @@
     "Pasted image 20230922095802.png.md",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "SOLID/객체지향 설계의 5가지 원칙.md",
-    "Pasted image 20230919145051.png.md",
     "새 텍스트 문서.txt",
     "SOLID",
     "무제 폴더/무제 폴더 1",
