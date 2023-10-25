@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인패턴/디자인 패턴이란.md",
+                "file": "하이하이.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,8 +200,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f33da4712518e4cc",
+  "active": "ea5736f0f036da57",
   "lastOpenFiles": [
+    "하이하이.md",
     "디자인패턴/디자인 패턴이란.md",
     "Pasted image 20231018100028.png",
     "Pasted image 20231018094318.png",
@@ -218,7 +219,6 @@
     "환경설정/옵시디언VIM.md",
     "환경설정/Vim 설정 파일.md",
     "SOLID/Solid 5가지 원칙.md",
-    "하이하이.md",
     "SOLID/Pasted image 20230921154709.png",
     "SOLID/Pasted image 20230921153931.png",
     "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
