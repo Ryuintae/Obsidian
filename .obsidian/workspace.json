@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "환경설정/Vim 설정 파일.md",
+                "file": "환경설정/키보드 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "환경설정/Vim 설정 파일.md",
+                "file": "환경설정/키보드 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "환경설정/Vim 설정 파일.md",
+                "file": "환경설정/키보드 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "환경설정/Vim 설정 파일.md"
+                "file": "환경설정/키보드 설정.md"
               }
             }
           },
@@ -210,6 +210,7 @@
   },
   "active": "ea5736f0f036da57",
   "lastOpenFiles": [
+    "환경설정/Vim 설정 파일.md",
     "하이하이.md",
     "디자인패턴/디자인 패턴이란.md",
     "Pasted image 20231018100028.png",
@@ -225,7 +226,6 @@
     "환경설정/키보드 설정.md",
     "소프트웨어_개발_방법론/애자일(Agile).md",
     "환경설정/옵시디언VIM.md",
-    "환경설정/Vim 설정 파일.md",
     "SOLID/Solid 5가지 원칙.md",
     "SOLID/Pasted image 20230921154709.png",
     "SOLID/Pasted image 20230921153931.png",
