@@ -58,9 +58,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f33da4712518e4cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인패턴/디자인 패턴이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인패턴/디자인 패턴이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "디자인패턴/디자인 패턴이란.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,12 +200,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d896f91925b53e6d",
+  "active": "f33da4712518e4cc",
   "lastOpenFiles": [
+    "디자인패턴/디자인 패턴이란.md",
     "Pasted image 20231018100028.png",
     "Pasted image 20231018094318.png",
     "디자인패턴/생성 패턴/팩토리패턴/추상 팩토리.md",
-    "디자인패턴/디자인 패턴이란.md",
     "디자인패턴/생성 패턴/빌더/빌더 패턴 (Builder).md",
     "DDD_(Domain Driven Design)/전략적 설계 와 전술적 설계.md",
     "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
@@ -226,7 +230,6 @@
     "Pasted image 20231005110934.png",
     "DDD_(Domain Driven Design)/pdf모음/서브도메인2.png",
     "DDD_(Domain Driven Design)/pdf모음/서브도메인예시.png",
-    "DDD_(Domain Driven Design)/pdf모음/방법1.png",
     "DDD_(Domain Driven Design)/pdf모음",
     "소프트웨어_개발_방법론",
     "DDD_(Domain Driven Design)/정리가 필요한 정보.md",
