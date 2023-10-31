@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "하이하이.md",
+                "file": "SOLID/Solid 5가지 원칙.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,17 +208,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fddb6a666e1299f5",
+  "active": "d896f91925b53e6d",
   "lastOpenFiles": [
     "SOLID/Solid 5가지 원칙.md",
+    "SOLID/Pasted image 20230921153931.png",
     "코코봇/사전지식.md",
+    "하이하이.md",
     "환경설정/인텔리제이 vim 설정 파일.md",
     "DDD_(Domain Driven Design)/도메인 이란.md",
     "코코봇",
     "소프트웨어_개발_방법론/애자일(Agile).md",
     "환경설정/키보드 설정.md",
     "환경설정/Vim 설정 파일.md",
-    "하이하이.md",
     "디자인패턴/디자인 패턴이란.md",
     "Pasted image 20231018100028.png",
     "Pasted image 20231018094318.png",
@@ -232,7 +233,6 @@
     "DDD_(Domain Driven Design)/엔티티와 밸류.md",
     "환경설정/옵시디언VIM.md",
     "SOLID/Pasted image 20230921154709.png",
-    "SOLID/Pasted image 20230921153931.png",
     "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
     "DDD_(Domain Driven Design)/무제 폴더",
     "Pasted image 20231006162034.png",
@@ -251,7 +251,6 @@
     "Pasted.md",
     "Pasted image 20230922101106.png.md",
     "Pasted image 20230922095802.png.md",
-    "README.md",
     "새 텍스트 문서.txt",
     "SOLID",
     "무제 폴더/무제 폴더 1",
