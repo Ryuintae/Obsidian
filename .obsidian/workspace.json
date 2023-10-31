@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOLID/Solid 5가지 원칙.md",
+                "file": "하이하이.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOLID/Solid 5가지 원칙.md",
+                "file": "하이하이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOLID/Solid 5가지 원칙.md",
+                "file": "하이하이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOLID/Solid 5가지 원칙.md"
+                "file": "하이하이.md"
               }
             }
           },
@@ -210,6 +210,7 @@
   },
   "active": "fddb6a666e1299f5",
   "lastOpenFiles": [
+    "SOLID/Solid 5가지 원칙.md",
     "코코봇/사전지식.md",
     "환경설정/인텔리제이 vim 설정 파일.md",
     "DDD_(Domain Driven Design)/도메인 이란.md",
@@ -230,7 +231,6 @@
     "DDD_(Domain Driven Design)/이벤트 스토밍.md",
     "DDD_(Domain Driven Design)/엔티티와 밸류.md",
     "환경설정/옵시디언VIM.md",
-    "SOLID/Solid 5가지 원칙.md",
     "SOLID/Pasted image 20230921154709.png",
     "SOLID/Pasted image 20230921153931.png",
     "DDD_(Domain Driven Design)/바운디드 컨텍스트.md",
