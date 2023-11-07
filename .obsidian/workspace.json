@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "f3f3c92d9313defc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "리액트/리액트의 파일구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d896f91925b53e6d",
             "type": "leaf",
             "state": {
@@ -72,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코코봇/정리.md",
+                "file": "리액트/리액트의 파일구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코코봇/정리.md",
+                "file": "리액트/리액트의 파일구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코코봇/정리.md"
+                "file": "리액트/리액트의 파일구조.md"
               }
             }
           },
@@ -208,10 +220,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fddb6a666e1299f5",
+  "active": "f3f3c92d9313defc",
   "lastOpenFiles": [
-    "나의 생각.md",
     "코코봇/정리.md",
+    "리액트/리액트의 파일구조.md",
+    "리액트",
+    "나의 생각.md",
     "환경설정/인텔리제이 vim 설정 파일.md",
     "환경설정/Vim 설정 파일.md",
     "SOLID/Solid 5가지 원칙.md",
@@ -247,16 +261,13 @@
     "소프트웨어_개발_방법론",
     "DDD_(Domain Driven Design)/정리가 필요한 정보.md",
     "DDD_(Domain Driven Design)",
-    "무제 파일.md",
     "디자인패턴/생성 패턴/팩토리패턴/팩토리 메서드 패턴.md",
     "디자인패턴/생성 패턴/빌더",
     "Pasted.md",
-    "Pasted image 20230922101106.png.md",
     "새 텍스트 문서.txt",
     "SOLID",
     "무제 폴더/무제 폴더 1",
     "무제 파일 1.canvas",
-    "환경설정",
     "무제 파일.canvas"
   ]
 }
