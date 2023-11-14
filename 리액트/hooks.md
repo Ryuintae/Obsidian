@@ -29,13 +29,24 @@ useEffect() 함수는 React component가 렌더링 될 때마다 특정 작업(S
 
 
 ## useContext
-**useContext**는 기존의 React에 존재하는 Context를 더 편하게 사용할 수 있게 해주는 역할을 한다. 따라서 useContext에 대해서 다루기 전에 우선 React에서 **Context란** 무엇인지부터 다뤄야 한다! 🏃‍♀️
+![[Pasted image 20231114155111.png]] ![[Pasted image 20231114155202.png]]
+
+>[!tip] 쉽게 생각하는 사용해야 하는 이유
+>props 를 글로벌하게 사용 할 수 있게 도와준다.
+>props 는 부모 자식 단방향 관계로 이어지지만 자식에서 자식이 props 를 사용할 때  수정할 때 큰 문제가 생길수도 있기 때문이다.
+>
+
+**useContext**는 기존의 React에 존재하는 Context를 더 편하게 사용할 수 있게 해주는 역할을 한다. 
+따라서 useContext에 대해서 다루기 전에 우선 React에서 **Context란** 무엇인지부터 다뤄야 한다! 🏃‍♀️
 
 ### Context 란?
 
-React 공식 문서에 쓰여있는 설명에는, _' context를 이용하면 단계마다 일일이 props를 넘겨주지 않고도 컴포넌트 트리 전체에 데이터를 제공할 수 있습니다 '_ 라고 적혀있다.  
+React 공식 문서에 쓰여있는 설명에는,
+_' context를 이용하면 단계마다 일일이 props를 넘겨주지 않고도 컴포넌트 트리 전체에 데이터를 제공할 수 있습니다 '_ 라고 적혀있다.  
 
-> 일반적인 React 어플리케이션에서 **데이터는 props를 통해서 부모에서 자식**에게 전달 되지만, 어플리케이션 안의 여러 컴포넌트들에게 props를 전달해줘야 하는 경우 context를 이용하면 명시적으로 props를 넘겨주지 않아도 값을 공유할 수 있게 해주는 것이다.  
+>[!tip] useContext 를 사용해야 하는 상황
+>일반적인 React 어플리케이션에서 **데이터는 props를 통해서 부모에서 자식**에게 전달 되지만, 
+>어플리케이션 안의 여러 컴포넌트들에게 props를 전달해줘야 하는 경우 context를 이용하면 명시적으로 props를 넘겨주지 않아도 값을 공유할 수 있게 해주는 것이다.  
 >   
 > **한마디로 데이터가 필요할 때마다 props를 통해 전달할 필요가 없이 context 를 이용해 공유한다!**
 
@@ -43,7 +54,7 @@ context API를 사용하기 위해서는 `Provider` , `Consumer` , `createC
 
 - `createContext` : context 객체를 생성한다.
 - `Provider` : 생성한 context를 하위 컴포넌트에게 전달하는 역할을 한다.
-- `Consumer` : context의 변화를 감시하는 컴포넌트이다.
+- `Consumer` : context의 변화를 감시하는 컴포넌트이다. (useContex 와 동일한 역할 )
 
 ### Context 예제
 
