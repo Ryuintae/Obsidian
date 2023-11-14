@@ -1,6 +1,8 @@
-1. Hooks는 React 함수 컴포넌트 내에서만 호출할 수 있습니다.
-2. 후크는 구성 요소의 최상위 수준에서만 호출할 수 있습니다.
-3. Hooks는 조건부일 수 없습니다
+
+> [!tip] 훅의 기본조건
+> 1. Hooks는 React 함수 컴포넌트 내에서만 호출할 수 있습니다.
+> 2. 후크는 구성 요소의 최상위 수준에서만 호출할 수 있습니다.
+> 3. Hooks는 조건부일 수 없습니다
 
 
 ## **Hook은 계층의 변화 없이 상태 관련 로직을 재사용할 수 있도록 도와줍니다.**
@@ -24,4 +26,103 @@ useEffect() 함수는 React component가 렌더링 될 때마다 특정 작업(S
 * 마운트
 * 업데이트
 * 언마운트
-*
+
+
+## useContext
+**useContext**는 기존의 React에 존재하는 Context를 더 편하게 사용할 수 있게 해주는 역할을 한다. 따라서 useContext에 대해서 다루기 전에 우선 React에서 **Context란** 무엇인지부터 다뤄야 한다! 🏃‍♀️
+
+### Context 란?
+
+React 공식 문서에 쓰여있는 설명에는, _' context를 이용하면 단계마다 일일이 props를 넘겨주지 않고도 컴포넌트 트리 전체에 데이터를 제공할 수 있습니다 '_ 라고 적혀있다.  
+
+> 일반적인 React 어플리케이션에서 **데이터는 props를 통해서 부모에서 자식**에게 전달 되지만, 어플리케이션 안의 여러 컴포넌트들에게 props를 전달해줘야 하는 경우 context를 이용하면 명시적으로 props를 넘겨주지 않아도 값을 공유할 수 있게 해주는 것이다.  
+>   
+> **한마디로 데이터가 필요할 때마다 props를 통해 전달할 필요가 없이 context 를 이용해 공유한다!**
+
+context API를 사용하기 위해서는 `Provider` , `Consumer` , `createContext` 이렇게 세가지 개념을 알고 있으면 된다.
+
+- `createContext` : context 객체를 생성한다.
+- `Provider` : 생성한 context를 하위 컴포넌트에게 전달하는 역할을 한다.
+- `Consumer` : context의 변화를 감시하는 컴포넌트이다.
+
+### Context 예제
+
+#### App.js
+
+```js
+import React, { createContext } from "react";
+import Children from "./Children";
+
+// AppContext 객체를 생성한다.
+export const AppContext = createContext();
+
+const App = () => {
+  const user = {
+    name: "김채원",
+    job: "가수"
+  };
+
+  return (
+    <>
+      <AppContext.Provider value={user}>
+        <div>
+          <Children />
+        </div>
+      </AppContext.Provider>
+    </>
+  );
+};
+
+export default App;
+```
+
+#### Children.js
+
+```js
+import React from "react";
+import { AppContext } from "./App";
+
+const Children = () => {
+  return (
+      <AppContext.Consumer>
+        {(user) => (
+          <>
+            <h3>AppContext에 존재하는 값의 name은 {user.name}입니다.</h3>
+            <h3>AppContext에 존재하는 값의 job은 {user.job}입니다.</h3>
+          </>
+        )}
+      </AppContext.Consumer>
+  );
+};
+
+export default Children;
+```
+
+![](https://velog.velcdn.com/images%2Fjminkyoung%2Fpost%2Ffc6b239b-417b-455a-8951-894c2ddcb46d%2Fimage.png)  
+이 예제에선 하나의 컴포넌트에서만 context를 사용했지만 코드가 늘어나면 여러 컴포넌트에서 사용이 가능하지만 코드가 점점 더러워지는 문제가 생길 것이다.
+
+### useContext 를 적용하면
+
+#### Children.js
+
+```js
+import React, { useContext } from "react";
+import { AppContext } from "./App";
+
+const Children = () => {
+  // useContext를 이용해서 따로 불러온다.
+  const user = useContext(AppContext);
+  return (
+    <>
+      <h3>AppContext에 존재하는 값의 name은 {user.name}입니다.</h3>
+      <h3>AppContext에 존재하는 값의 job은 {user.job}입니다.</h3>
+    </>
+  );
+};
+
+export default Children;
+```
+
+App.js 에서 Context를 생성하고 Provider를 통해 전달하는 코드는 그대로지만 Children.js에서 `AppContext` 를 사용하는 과정에서 `<AppContext.Consumer>` 같은 코드를 사용해서 복잡하게 작성하지 않고 `const user = useContext(AppContext)`를 통해 Context를 불러 온 후 바로 사용이 가능하게 바뀌었다.  
+
+> 따라서 useContext 를 사용하면 기존의 Context 사용 방식보다 더 쉽고 간단하게 Context를 사용이 가능하고, 앞서 다뤘던 useState, useEffect와 조합해서 사용하기 쉽다는 장점이 있다 ✨
