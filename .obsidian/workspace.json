@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리액트/리액트의 파일구조.md",
+                "file": "나의 생각.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리액트/리액트의 파일구조.md",
+                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리액트/리액트의 파일구조.md",
+                "file": "DDD_(Domain Driven Design)/도메인 이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리액트/리액트의 파일구조.md"
+                "file": "DDD_(Domain Driven Design)/도메인 이란.md"
               }
             }
           },
@@ -220,8 +219,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f3f3c92d9313defc",
+  "active": "63e0f6ca44148356",
   "lastOpenFiles": [
+    "코코봇/정리.md",
+    "나의 생각.md",
+    "리액트/리액트의 파일구조.md",
     "리액트/import 와 export 차이.md",
     "Pasted image 20231115110901.png",
     "Pasted image 20231115110745.png",
@@ -230,12 +232,9 @@
     "리액트/리액트 생명 주기.md",
     "Pasted image 20231114185356.png",
     "리액트/props.md",
-    "코코봇/정리.md",
-    "리액트/리액트의 파일구조.md",
     "Pasted image 20231114155202.png",
     "Pasted image 20231114155111.png",
     "리액트",
-    "나의 생각.md",
     "환경설정/인텔리제이 vim 설정 파일.md",
     "환경설정/Vim 설정 파일.md",
     "SOLID/Solid 5가지 원칙.md",
