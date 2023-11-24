@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코코봇/Shape 파일 이란.md",
+                "file": "리액트/기본 지식.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코코봇/Shape 파일 이란.md",
+                "file": "리액트/기본 지식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코코봇/Shape 파일 이란.md",
+                "file": "리액트/기본 지식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코코봇/Shape 파일 이란.md"
+                "file": "리액트/기본 지식.md"
               }
             }
           },
@@ -222,8 +222,10 @@
   },
   "active": "d896f91925b53e6d",
   "lastOpenFiles": [
-    "코코봇/OGC_WFS_WMS.md",
+    "리액트/props.md",
+    "리액트/기본 지식.md",
     "코코봇/Shape 파일 이란.md",
+    "코코봇/OGC_WFS_WMS.md",
     "나의 생각.md",
     "코코봇/사전지식.md",
     "코코봇/정리.md",
@@ -236,7 +238,6 @@
     "리액트/hooks.md",
     "리액트/리액트 생명 주기.md",
     "Pasted image 20231114185356.png",
-    "리액트/props.md",
     "Pasted image 20231114155202.png",
     "Pasted image 20231114155111.png",
     "리액트",
@@ -258,7 +259,6 @@
     "DDD_(Domain Driven Design)/애그리거트.md",
     "DDD_(Domain Driven Design)/이벤트 스토밍.md",
     "DDD_(Domain Driven Design)/엔티티와 밸류.md",
-    "환경설정/옵시디언VIM.md",
     "SOLID/Pasted image 20230921154709.png",
     "DDD_(Domain Driven Design)/무제 폴더",
     "DDD_(Domain Driven Design)/pdf모음",
