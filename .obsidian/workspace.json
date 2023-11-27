@@ -43,12 +43,8 @@
             "id": "fddb6a666e1299f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리액트/props.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -78,12 +74,16 @@
             "id": "f33da4712518e4cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "리액트/hooks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -112,8 +112,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "훅",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리액트/props.md",
+                "file": "리액트/hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리액트/props.md",
+                "file": "리액트/hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리액트/props.md"
+                "file": "리액트/hooks.md"
               }
             }
           },
@@ -220,16 +220,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7de267709b3ffe26",
+  "active": "f33da4712518e4cc",
   "lastOpenFiles": [
+    "리액트/hooks.md",
+    "리액트/props.md",
     "리액트/import 와 export 차이.md",
     "리액트/리액트 생명 주기.md",
     "리액트/리액트의 파일구조.md",
     "리액트/기본 지식.md",
     "코코봇/정리.md",
     "나의 생각.md",
-    "리액트/hooks.md",
-    "리액트/props.md",
     "코코봇/Shape 파일 이란.md",
     "코코봇/OGC_WFS_WMS.md",
     "코코봇/사전지식.md",
