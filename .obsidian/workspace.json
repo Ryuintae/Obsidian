@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "나의 생각.md",
+                "file": "환경설정/키보드 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "나의 생각.md",
+                "file": "환경설정/키보드 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "나의 생각.md",
+                "file": "환경설정/키보드 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "나의 생각.md"
+                "file": "환경설정/키보드 설정.md"
               }
             }
           },
@@ -210,18 +210,22 @@
   },
   "active": "f3f3c92d9313defc",
   "lastOpenFiles": [
+    "환경설정/옵시디언VIM.md",
+    "환경설정/인텔리제이 vim 설정 파일.md",
+    "환경설정/키보드 설정.md",
+    "환경설정/Vim 설정 파일.md",
+    "2023-11-27.md",
+    "나의 생각.md",
+    "리액트/props.md",
+    "코코봇/Shape 파일 이란.md",
+    "코코봇/OGC_WFS_WMS.md",
+    "코코봇/사전지식.md",
+    "코코봇/정리.md",
     "리액트/리액트 생명 주기.md",
     "리액트/hooks.md",
     "리액트/리액트의 파일구조.md",
     "리액트/기본 지식.md",
-    "나의 생각.md",
-    "2023-11-27.md",
-    "코코봇/사전지식.md",
-    "리액트/props.md",
     "리액트/import 와 export 차이.md",
-    "코코봇/정리.md",
-    "코코봇/Shape 파일 이란.md",
-    "코코봇/OGC_WFS_WMS.md",
     "DDD_(Domain Driven Design)/도메인 이란.md",
     "Pasted image 20231115110901.png",
     "Pasted image 20231115110745.png",
@@ -230,13 +234,10 @@
     "Pasted image 20231114155202.png",
     "Pasted image 20231114155111.png",
     "리액트",
-    "환경설정/인텔리제이 vim 설정 파일.md",
-    "환경설정/Vim 설정 파일.md",
     "SOLID/Solid 5가지 원칙.md",
     "SOLID/Pasted image 20230921153931.png",
     "코코봇",
     "소프트웨어_개발_방법론/애자일(Agile).md",
-    "환경설정/키보드 설정.md",
     "디자인패턴/디자인 패턴이란.md",
     "Pasted image 20231018100028.png",
     "Pasted image 20231018094318.png",
@@ -246,7 +247,6 @@
     "DDD_(Domain Driven Design)/컨텍스트 매핑.md",
     "DDD_(Domain Driven Design)/서브도메인.md",
     "DDD_(Domain Driven Design)/애그리거트.md",
-    "DDD_(Domain Driven Design)/이벤트 스토밍.md",
     "SOLID/Pasted image 20230921154709.png",
     "DDD_(Domain Driven Design)/무제 폴더",
     "DDD_(Domain Driven Design)/pdf모음",
